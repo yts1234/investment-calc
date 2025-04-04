@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <di    class="container mt-5">
+  <div class="container mt-5">
     <h1 class="text-center mb-4">Investment Return Calculator</h1>
     <div class="card p-4">
       <form id="investmentForm">
@@ -38,11 +38,11 @@
         </div> -->
 
         <div class="mb-3">
-          <label for="investmentAmount" class="form-label">Investment Amount ($)</label>
+          <label for="investmentAmount" class="form-label">Investment Amount (Rp/Rupiah)</label>
           <input type="number" class="form-control" id="investmentAmount" required>
           <!-- Validation error -->
           <div id="minError" class="text-danger mt-2" style="display: none;">
-            Minimum investment: $<span id="minValue"></span>
+            Minimum investment: Rp<span id="minValue"></span>
           </div>
         </div>
         
