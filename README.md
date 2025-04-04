@@ -17,7 +17,7 @@ This project calculates the investment returns for Government bonds.
 
 ## Live Demo
 
-[View on GitHub Pages](https://yts1234.github.io/investment-calculator/)
+[View on GitHub Pages](https://yts1234.github.io/investment-calc/)
 
 ## License
 
