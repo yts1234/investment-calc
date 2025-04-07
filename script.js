@@ -233,6 +233,6 @@ function resetCalculator(){
   result.style.display = "none";
   minError.style.display = "none";
   bondDropdown.selectedIndex = 0;
-  selectedBond - null;
+  selectedBond = null;
   bondDropdown.focus();
 }
